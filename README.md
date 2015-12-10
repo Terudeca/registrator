@@ -2,8 +2,8 @@
 
 Service registry bridge for Docker, sponsored by [Weave](http://weave.works).
 
-[![Circle CI](https://circleci.com/gh/gliderlabs/registrator.png?style=shield)](https://circleci.com/gh/gliderlabs/registrator)
-[![Docker Hub](https://img.shields.io/badge/docker-ready-blue.svg)](https://registry.hub.docker.com/u/gliderlabs/registrator/)
+[![Circle CI](https://circleci.com/gh/hostinger/registrator.png?style=shield)](https://circleci.com/gh/hostinger/registrator)
+[![Docker Hub](https://img.shields.io/badge/docker-ready-blue.svg)](https://registry.hub.docker.com/u/hostinger/registrator/)
 [![IRC Channel](https://img.shields.io/badge/irc-%23gliderlabs-blue.svg)](https://kiwiirc.com/client/irc.freenode.net/#gliderlabs)
 <br /><br />
 
@@ -17,7 +17,7 @@ Full documentation available at http://gliderlabs.com/registrator
 
 ## Getting Registrator
 
-Get the latest release, master, or any version of Registrator via [Docker Hub](https://registry.hub.docker.com/u/gliderlabs/registrator/):
+Get the latest release, master, or any version of Registrator via [Docker Hub](https://registry.hub.docker.com/u/hostinger/registrator/):
 
 	$ docker pull gliderlabs/registrator:latest
 
@@ -42,7 +42,7 @@ Guide. Typically, running Registrator looks like this:
 ## Contributing
 
 Pull requests are welcome! We recommend getting feedback before starting by
-opening a [GitHub issue](https://github.com/gliderlabs/registrator/issues) or
+opening a [GitHub issue](https://github.com/hostinger/registrator/issues) or
 discussing in [Slack](http://glider-slackin.herokuapp.com/).
 
 Also check out our Developer Guide on [Contributing
@@ -56,7 +56,7 @@ Ongoing support of this project is made possible by [Weave](http://weave.works),
 for inspiration.
 
 For a full list of sponsors, see
-[SPONSORS](https://github.com/gliderlabs/registrator/blob/master/SPONSORS).
+[SPONSORS](https://github.com/hostinger/registrator/blob/master/SPONSORS).
 
 ## License
 
