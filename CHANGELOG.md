@@ -37,6 +37,8 @@ All notable changes to this project will be documented in this file.
 - Overall refactoring and cleanup
 - Decoupled registries into subpackages using extpoints
 - Replaced check-http script with Consul's native HTTP checks
+- Add full TTL support for Consul 0.5.0.
+- Support multiple Consul checks per service (such as a TTL and script)
 
 
 ## [v5] - 2015-02-18
