@@ -51,10 +51,6 @@ func serviceMetaData(config *dockerapi.Config, port string) map[string]string {
 				metadata[key] = kvp[1]
 			}
 		}
-		if kvp[0] == "EXPOSE_IPV6" {
-			key := strings.ToLower(kvp[0])
-			metadata[key] = kvp[1]
-		}
 	}
 	return metadata
 }
